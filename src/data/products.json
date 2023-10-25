@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Produit 1",
+    "price": 100,
+    "quantity": 50,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 1"
+  },
+  {
+    "id": 2,
+    "name": "Produit 2",
+    "price": 200,
+    "quantity": 30,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 2"
+  },
+  {
+    "id": 3,
+    "name": "Produit 3",
+    "price": 150,
+    "quantity": 20,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 3"
+  },
+  {
+    "id": 4,
+    "name": "Produit 4",
+    "price": 150,
+    "quantity": 20,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 3"
+  },
+  {
+    "id": 5,
+    "name": "Produit 5",
+    "price": 150,
+    "quantity": 20,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 2"
+  },
+  {
+    "id": 6,
+    "name": "Produit 6",
+    "price": 150,
+    "quantity": 20,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 1"
+  },
+  {
+    "id": 7,
+    "name": "Produit 7",
+    "price": 150,
+    "quantity": 20,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 2"
+  },
+  {
+    "id": 7,
+    "name": "Produit 7",
+    "price": 150,
+    "quantity": 20,
+    "image": "https://picsum.photos/200",
+    "category": "Catégorie 2"
+  }
+]
